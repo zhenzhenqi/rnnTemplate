@@ -1,0 +1,10 @@
+# Python Virtual Environment
+/tf_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other common ignores
+.vscode/
+.idea/
